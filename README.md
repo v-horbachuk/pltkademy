@@ -1,1 +1,1 @@
-# pltkademy
+Test task for DevOps School
